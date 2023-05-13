@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import java.time.Instant;
 
-@Entity
+@Entity         //teste
 @Table(name = "tb_order")
 public class Order {
     @Id
